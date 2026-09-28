@@ -1,6 +1,6 @@
 ### Hi, I'm Osnaider 👋
 
-**Software Engineer · .NET & C# · Technical Lead** — Barranquilla, Colombia 🇨🇴 · Open to remote opportunities
+**Software Engineer · .NET & C# · Technical Lead** — Barranquilla, Colombia · Open to remote opportunities
 
 I build scalable backend systems with C#, .NET and Azure, lead engineering teams, and use AI-assisted development to ship faster without lowering the bar.
 
@@ -12,7 +12,7 @@ I build scalable backend systems with C#, .NET and Azure, lead engineering teams
 
 #### 💼 Experience
 
-**Technical Lead · Ombia** — *Feb 2025 – Sep 2026*
+**Technical Lead · Ombia** — *Feb 2025 – Sep 2026*  
 Joined as a .NET Developer and was promoted to Technical Lead within the first month.
 - Led backend teams of up to 10 developers delivering scalable REST APIs and integration services.
 - Designed and maintained architectures with .NET 8 and EF Core on SQL Server.
